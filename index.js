@@ -1,3 +1,2 @@
 // Selam
-// Yeni branch gecildi
-//deneme
+// Diger branch e gectim
