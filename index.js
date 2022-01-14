@@ -1,2 +1,2 @@
 // Selam
-// Diger branch e gectim
+// bu farkli bi branch calismasi
